@@ -1,0 +1,3 @@
+include ':SlideRecyclerViewlibrary'
+include ':app'
+rootProject.name = "P_SlideRecyclerView"
